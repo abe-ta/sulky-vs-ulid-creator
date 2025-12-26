@@ -1,5 +1,9 @@
 # sulky-vs-ulid-creator
 
+de.huxhorn.sulky.ulid = 8.3.0
+
+f4b6a3/ulid-creator = 5.2.3
+
 ## 計測結果
 
 ```
